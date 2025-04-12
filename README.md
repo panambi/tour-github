@@ -1,4 +1,16 @@
-# Introdução ao GitHub
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+
+⭐️ Congratulations panambi! ⭐️
+
+You completed this exercise! Nice work! 🥳
+
+If you would like to practice again, you can retrace your steps below. Just press the **Start Exercise** button again.
+
+> [!TIP]
+> Mona won't grade you this time! 😉
+
+
+ # Introdução ao GitHub
 
 <!-- ![](https://github.com/panambi/tour-github/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/panambi/tour-github/actions/workflows/1-create-a-branch.yml/badge.svg)  
