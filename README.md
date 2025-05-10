@@ -33,7 +33,7 @@ As pessoas usam o GitHub para construir algumas das tecnologias mais avançadas 
 Neste exercício, você vai:
 
 1. Criar uma ramificação (branch)  
-2. Fazer commit de um arquivo  
+2. Fazer commit de um arquivo  (commit)
 3. Abrir uma pull request  
 4. Mesclar sua pull request
 
